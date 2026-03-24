@@ -14,7 +14,9 @@
 
 > *(Add your screenshots in an `images/` folder)*
 
-![Dashboard](images/dashboard.png)  
+![Dashboard](images/dashboard.png)
+<img width="379" height="561" alt="image" src="https://github.com/user-attachments/assets/4cf7bc98-04a6-4c83-abe0-317ea74711ca" />
+
 ![Login](images/login.png)
 
 ---
