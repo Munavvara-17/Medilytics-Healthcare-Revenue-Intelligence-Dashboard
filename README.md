@@ -12,13 +12,12 @@
 
 ##  Dashboard Preview
 
-> *(Add your screenshots in an `images/` folder)*
+![Dashboard 1](https://github.com/user-attachments/assets/5f1eada9-50a4-4872-970c-84f928b07507)
 
-![Dashboard]
-<img width="379" height="561" alt="image" src="https://github.com/user-attachments/assets/4cf7bc98-04a6-4c83-abe0-317ea74711ca" />
+![Dashboard 2](https://github.com/user-attachments/assets/e45d641a-f412-497b-9d04-d4e37501d448)
 
-
-![Login](images/login.png)
+###  Login Page
+![Login](https://github.com/user-attachments/assets/4cf7bc98-04a6-4c83-abe0-317ea74711ca)
 
 ---
 
