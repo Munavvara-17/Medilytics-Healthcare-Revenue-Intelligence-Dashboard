@@ -1,16 +1,16 @@
-# 🏥 MEDILYTICS — Healthcare Revenue Intelligence Dashboard
+#  MEDILYTICS — Healthcare Revenue Intelligence Dashboard
 
-## 🚀 Key Features
+##  Key Features
 
-- 📊 Interactive healthcare operations dashboard using Streamlit  
-- 📈 6-month revenue forecasting using ARIMA model  
-- 🚨 Anomaly detection for identifying revenue leakage  
-- 🔐 Secure login system with role-based access  
-- 📉 KPI tracking for claims, billing, and performance  
+-  Interactive healthcare operations dashboard using Streamlit  
+-  6-month revenue forecasting using ARIMA model  
+-  Anomaly detection for identifying revenue leakage  
+-  Secure login system with role-based access  
+-  KPI tracking for claims, billing, and performance  
 
 ---
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 
 > *(Add your screenshots in an `images/` folder)*
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 📌 Introduction
+##  Introduction
 
 MEDILYTICS is a healthcare operations and revenue analytics dashboard developed as part of the **Infosys Springboard Virtual Internship 6.0 (Batch 13)**.  
 
@@ -27,13 +27,13 @@ The project focuses on analyzing healthcare financial data, monitoring operation
 
 ---
 
-## 🎓 Internship
+##  Internship
 
 Developed as part of **Infosys Springboard Virtual Internship 6.0 (Batch 13)** under guided mentorship.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Design an interactive dashboard for healthcare operations monitoring  
 - Analyze revenue and claims-related data for insights  
@@ -43,30 +43,30 @@ Developed as part of **Infosys Springboard Virtual Internship 6.0 (Batch 13)** u
 
 ---
 
-## 🧠 Methodology
+##  Methodology
 
-### 🔹 Data Preprocessing
+###  Data Preprocessing
 - Handling missing values  
 - Feature engineering for time-series  
 - Monthly aggregation of revenue data  
 
-### 🔹 Forecasting Model
+###  Forecasting Model
 - ARIMA (AutoRegressive Integrated Moving Average)  
 - Captures trends & seasonality  
 - Generates 6-month revenue forecast  
 
-### 🔹 Anomaly Detection
+###  Anomaly Detection
 - Detect abnormal revenue patterns  
 - Identify potential leakage  
 
-### 🔹 Visualization
+###  Visualization
 - Time-series plots  
 - KPI dashboards  
 - Comparative analysis  
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 - **Data Layer** → Raw & processed datasets  
 - **Model Layer** → Forecasting & anomaly detection  
@@ -75,7 +75,7 @@ Developed as part of **Infosys Springboard Virtual Internship 6.0 (Batch 13)** u
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Medilytics-Healthcare-Revenue-Intelligence-Dashboard/
@@ -92,7 +92,7 @@ Medilytics-Healthcare-Revenue-Intelligence-Dashboard/
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ```bash
 git clone https://github.com/Munavvara-17/Medilytics-Healthcare-Revenue-Intelligence-Dashboard.git
