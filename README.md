@@ -99,5 +99,5 @@ Medilytics-Healthcare-Revenue-Intelligence-Dashboard/
 ```bash
 git clone https://github.com/Munavvara-17/Medilytics-Healthcare-Revenue-Intelligence-Dashboard.git
 cd Medilytics-Healthcare-Revenue-Intelligence-Dashboard
-pip install -r requirements.txt
+pip install streamlit pandas numpy matplotlib seaborn plotly scikit-learn statsmodels
 streamlit run app.py
